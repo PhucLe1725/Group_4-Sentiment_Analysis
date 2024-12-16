@@ -3,3 +3,4 @@ src/resources/X_w2v_test.pkl
 src/resources/X_w2v_train.pkl
 src/resources/y_test.pkl
 src/resources/y_train.pkl
+src/resources/word2vec_vectors.pkl

@@ -1,0 +1,5 @@
+# Ignore specific files
+src/resources/X_w2v_test.pkl
+src/resources/X_w2v_train.pkl
+src/resources/y_test.pkl
+src/resources/y_train.pkl

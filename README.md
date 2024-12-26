@@ -41,7 +41,8 @@ Với:
 - $N$: Tổng số từ trong văn bản $d$
 
 ### Word2Vec
-Word2Vec là một kỹ thuật học sâu được sử dụng để biểu diễn các từ trong không gian vector sao cho ngữ nghĩa của từ có thể được ghi nhớ trong các vector này. Các từ có nghĩa tương tự sẽ được biểu diễn bởi các vector tương ứng có hướng gần nhau trong không gian. Word2Vec học vector từ dựa trên ngữ cảnh của từ trong văn bản thông qua hai mô hình: CBOW (Continuous Bag of Words) và Skip-Gram. 
+Word2Vec là một kỹ thuật học sâu được sử dụng để biểu diễn các từ trong không gian vector sao cho ngữ nghĩa của từ có thể được ghi nhớ trong các vector này. Các từ có nghĩa tương tự sẽ được biểu diễn bởi các vector tương ứng có hướng gần nhau trong không gian. Word2Vec học vector từ dựa trên ngữ cảnh của từ trong văn bản thông qua hai mô hình: CBOW (Continuous Bag of Words) và Skip-Gram. \
+Do kích thước lớn của model. Chúng tôi lưu các file được sinh ra từ `src/python/Word2Vec.ipynb` tại [đây](https://drive.google.com/drive/folders/1lHf_Q_nuiUHhJWc5efgl_HgfqmWnQvjh?usp=sharing). Để có thể chạy được code (liên quan tới Word2Vec) trong các mô hình, các bạn cần tải các file này xuống (hoặc sinh nó ra từ ngay trong file `src/python/Word2Vec.ipynb`) và lưu tại `resources`
 
 ## Các phương pháp truyền thống 
 
